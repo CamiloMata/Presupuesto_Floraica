@@ -68,4 +68,7 @@ Ejecuta el siguiente comando:
 Bash
 
 streamlit run dashboard.py
+
+Otro camino para ejecutar es: python -m streamlit run dashboard.py
+
 Streamlit abrirá automáticamente el dashboard en tu navegador web.
